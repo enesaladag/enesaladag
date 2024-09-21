@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Enes Aladağ], a passionate programmer and tech enthusiast specializing in **Python**, **C**, **C++**, **C#**, **AI**, and **Machine Learning**. I love building innovative projects and solving complex problems.
+I'm [Enes Aladağ] , a passionate programmer and tech enthusiast specializing in **Python**, **C**, **C++**, **C#**, **AI**, and **Machine Learning**. I love building innovative projects and solving complex problems.
 
 ## 🚀 Skills
 
